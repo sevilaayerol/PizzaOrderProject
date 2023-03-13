@@ -1,0 +1,14 @@
+We got sauce selection input from user:
+1: Classic
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+
+* Please choose sauce:
+11: Olive
+12: Mushroom
+13: Goat cheese
+14: Meat
+15: Onion
+16: Corn
+* Thank You!
